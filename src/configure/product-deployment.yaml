@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: product-container
-          image: hunglq/product-app:9eb15ef75d2f264dcb5ed8ae442d2a78aa3f6b5c
+          image: hunglq/product-app:e1083b83950196bde232965e1689bce8b8b7ff07
           ports:
             - containerPort: 8080
   strategy:
